@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Vishant Patil from India<br><br>- 🔭 I’m a Fresher<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I love to code and listen to music</p>
+<p align="left">I'm Vishant Patil from India<br><br>- 🔭 I’m a Freelancer<br>- 📚 I'm working in Tresbizz as Wordpress Developer<br>- ⚡ In my free time I love to code and listen to music</p>
 
 ###
 
